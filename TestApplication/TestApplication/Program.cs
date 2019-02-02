@@ -15,6 +15,7 @@ namespace TestApplication
             Console.WriteLine("Added a new release 2.0");
             Console.WriteLine("Added a new feature2 branch.");
             Console.WriteLine("HOTFIX 2.0.1");
+            Console.WriteLine("Some changes in Hotfix 2.0.1");
         }
     }
 }
